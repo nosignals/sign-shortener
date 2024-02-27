@@ -16,7 +16,7 @@ plugins:
 
 collections:
   urls:
-    output: false
+    output: true
     permalink: /:slug
 
 whitelist:
