@@ -1,7 +1,7 @@
 name: NEKO
 
 title: NEKO
-description: null
+description: unavailable.
 
 version: v0.2
 
@@ -16,7 +16,7 @@ plugins:
 
 collections:
   urls:
-    output: false
+    output: true
     permalink: /:slug
 
 whitelist:
