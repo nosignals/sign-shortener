@@ -1,7 +1,7 @@
-name: NOSIGNAL URL Shortener
+name: NEKO
 
-title: NOSIGNAL URL Shortener
-description: Create short URLs that can be easily shared, tweeted, or emailed to friends.
+title: NEKO
+description: null
 
 version: v0.2
 
@@ -16,7 +16,7 @@ plugins:
 
 collections:
   urls:
-    output: true
+    output: false
     permalink: /:slug
 
 whitelist:
