@@ -2,15 +2,15 @@
   "sn": [
     {
       "id": "{07684C0D-6039-A8CA-A4A5-0EB3F5F1CEC7}",
-      "sh": "sign"
+      "name": "sign"
     },
     {
       "id": "{07685C0D-6039-A8CA-A4A5-0EB3F5F1CEC7}",
-      "sh": "sign test"
+      "name": "sign test"
     },
     {
       "id": "{07685C0D-6039-A8CA-A4A5-0EB3F5F1CEC8}",
-      "sh": "sign test 2"
+      "name": "sign test 2"
     }
   ]
 }
